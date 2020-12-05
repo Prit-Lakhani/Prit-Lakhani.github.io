@@ -243,7 +243,7 @@ body .btn {
 */
 #loading {
   /*pre-loader*/
-  background-color: blueviolet;
+  background-color: #2ed573;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -725,7 +725,7 @@ svg {
   top: 0;
   border-style: dashed;
   border-width: 400px 0 0 100px;
-  border-color: transparent transparent transparent blueviolet;
+  border-color: transparent transparent transparent #2ed573;
 }
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   #home .header-background #v-card-holder #v-card #profile .slant {
@@ -965,7 +965,7 @@ svg {
 }
 .timeline-block .timeline-dot {
   /*timeline dot*/
-  background: blueviolet;
+  background: #2ed573;
   width: 50px;
   height: 50px;
   border-radius: 100%;
@@ -1011,7 +1011,7 @@ svg {
   left: 100%;
   z-index: -2;
   opacity: 0.4;
-  background: blueviolet;
+  background: #2ed573;
 }
 .timeline-block .timeline-content::after {
   /*horizontal line*/
@@ -1050,7 +1050,7 @@ svg {
     margin-left: -2px;
     height: 77.1%;
     opacity: 0.4;
-    background:blueviolet;
+    background:#2ed573;
   }
 
   #timeline-experience::before {
@@ -1059,7 +1059,7 @@ svg {
     margin-left: -2px;
     height: 0%;
     opacity: 0.4;
-    background:blueviolet;
+    background:#2ed573;
   }
 
   .timeline-block {
@@ -1873,7 +1873,7 @@ svg {
   width: 45px;
   cursor: pointer;
   font-size: 28px;
-  background: blueviolet;
+  background: rgb(77, 143, 77);
   border: 1px solid #1976d2;
   text-align: center;
   border-radius: 100%;
@@ -1902,11 +1902,11 @@ footer {
 
 /* back-ground */
 .bg_color{
-  background-color:blueviolet !important;
+  background-color:#2ed573 !important;
 }
 
 .font_color{
-  color:cyan;
+  color:white;
 }
 
 .icon_color{
