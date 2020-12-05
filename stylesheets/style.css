@@ -1518,14 +1518,29 @@ svg {
   }
 }
 
-.interest_icon_odd{
-  background-color: #00ff1f !important;
+.interest_icon_1{
+  background-color: #8d7cec !important;
 }
 
-.interest_icon_even{
+.interest_icon_2{
   background-color: aqua !important;
 }
 
+.interest_icon_3{
+  background-color: rgb(206, 148, 188) !important;
+}
+
+.interest_icon_4{
+  background-color: rgb(125, 230, 134) !important;
+}
+
+.interest_icon_5{
+  background-color: rgb(205, 238, 113) !important;
+}
+
+.interest_icon_6{
+  background-color: rgb(238, 213, 102) !important;
+}
 /*
 -------------------------------------------------------------------------------
 10. TESTIMONIALS SECTION
