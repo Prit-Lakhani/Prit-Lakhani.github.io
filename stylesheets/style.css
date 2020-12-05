@@ -1518,6 +1518,14 @@ svg {
   }
 }
 
+.interest_icon_odd{
+  background-color: #00ff1f !important;
+}
+
+.interest_icon_even{
+  background-color: aqua !important;
+}
+
 /*
 -------------------------------------------------------------------------------
 10. TESTIMONIALS SECTION
@@ -1909,10 +1917,10 @@ footer {
   color:white;
 }
 
-.icon_color{
-  background-color:deepskyblue !important;
+/* .icon_color{
+  background-color:#00ff1f !important;
   
-}
+} */
 
 .icon_margin{
   margin-top: 10px !important;
